@@ -1,6 +1,4 @@
-CS2340
-=====
-
+This is the repository for a JavaFx implementation of the Soace Trader Game. To run, download and run the application/src/controller/MainController.java file as a javaFx application.
 
 ## Space Trader Documentation (from original web site)
 
